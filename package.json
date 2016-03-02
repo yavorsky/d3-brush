@@ -1,0 +1,31 @@
+{
+  "name": "d3-brush",
+  "version": "0.0.4",
+  "description": "Brush from d3.",
+  "main": "index.js",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yavorsky/d3-brush.git"
+  },
+  "keywords": [
+    "d3",
+    "brush"
+  ],
+  "license": "BSD-3-Clause",
+  "contributors": [
+    "Artem Yavorsky <info@yavorsky.org>"
+  ],
+  "bugs": {
+    "url": "https://github.com/yavorsky/d3-brush/issues"
+  },
+  "dependencies": {
+    "d3-transition": "~0.2.5"
+  }
+}
